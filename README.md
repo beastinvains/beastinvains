@@ -12,10 +12,10 @@ I have practical experience with SIEM monitoring, log analysis, malware analysis
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/Git-GitHub-181717)
 ## Cybersecurity & SOC Skills Badges
-![Static Badge](https://img.shields.io/badge/malware%20analysis-8A2BE2)![Static Badge](https://img.shields.io/badge/cybersecurity-000000)
-![Static Badge](https://img.shields.io/badge/SOC%20operations-1E90FF)![Static Badge](https://img.shields.io/badge/SIEM-FF4500)
-![Static Badge](https://img.shields.io/badge/log%20analysis-2E8B57)![Static Badge](https://img.shields.io/badge/malware%20analysis-8A2BE2)
-![Static Badge](https://img.shields.io/badge/vulnerability%20assessment-B22222)![Static Badge](https://img.shields.io/badge/OWASP%20Top%2010-DC143C)![Static Badge](https://img.shields.io/badge/incident%20response-4169E1)
+![Static Badge](https://img.shields.io/badge/malware%20analysis-8A2BE2) ![Static Badge](https://img.shields.io/badge/cybersecurity-000000)
+![Static Badge](https://img.shields.io/badge/SOC%20operations-1E90FF) ![Static Badge](https://img.shields.io/badge/SIEM-FF4500)
+![Static Badge](https://img.shields.io/badge/log%20analysis-2E8B57) ![Static Badge](https://img.shields.io/badge/malware%20analysis-8A2BE2)
+![Static Badge](https://img.shields.io/badge/vulnerability%20assessment-B22222) ![Static Badge](https://img.shields.io/badge/OWASP%20Top%2010-DC143C) ![Static Badge](https://img.shields.io/badge/incident%20response-4169E1)
 ## Tools & Platforms Badges
 ![Static Badge](https://img.shields.io/badge/Wazuh%20SIEM-005571)
 ![Static Badge](https://img.shields.io/badge/Kali%20Linux-557C94)
