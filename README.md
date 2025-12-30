@@ -1,8 +1,12 @@
 # 💫 About Me:
-I have practical experience with SIEM monitoring, log analysis, malware analysis (basic), and file integrity monitoring, gained through academic projects and self-driven labs. I’ve worked with tools such as Wazuh, Kali Linux, Wireshark, Burp Suite, and virtualized lab environments to simulate real-world security scenarios.<br><br>I’m currently building my foundation for SOC L0/L1 roles, focusing on alert analysis, incident triage, vulnerability awareness, and clear documentation. Alongside technical skills, I value structured learning, consistency, and clear communication, which I also practice through technical writing and blogging on cybersecurity topics.<br><br>I’m always eager to learn, improve my skills, and collaborate on security-focused projects. My goal is to grow into a cybersecurity professional who can effectively contribute to security monitoring, incident response, and continuous improvement of defensive systems.<br><br><b>🔧</b> Interests<br><br>SOC Operations & SIEM Monitoring<br><br>Malware Analysis & Threat Research (Beginner)<br><br>Cybersecurity Fundamentals & OWASP Top 10<br><br>Linux & Networking Basics<br><br>
+I have practical experience with SIEM monitoring, log analysis, malware analysis (basic), and file integrity monitoring, gained through academic projects and self-driven labs. I’ve worked with tools such as Wazuh, Kali Linux, Wireshark, Burp Suite, and virtualized lab environments to simulate real-world security scenarios.<br><br>I’m currently building my foundation for SOC L0/L1 roles, focusing on alert analysis, incident triage, vulnerability awareness, and clear documentation. Alongside technical skills, I value structured learning, consistency, and clear communication, which I also practice through technical writing and blogging on cybersecurity topics.<br><br>I’m always eager to learn, improve my skills, and collaborate on security-focused projects. My goal is to grow into a cybersecurity professional who can effectively contribute to security monitoring, incident response, and continuous improvement of defensive systems.<br><br>
+## 🔧Interests<br>
+* SOC Operations & SIEM Monitoring
+* Malware Analysis & Threat Research (Beginner)
+* Cybersecurity Fundamentals & OWASP Top 10
+* Linux & Networking Basics<br><br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/punit_bytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punit-sharma-68b49425a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punitsharma.8022@gmail.com) 
 
 ## 💻 Tech Stack:
@@ -27,9 +31,6 @@ I have practical experience with SIEM monitoring, log analysis, malware analysis
 ![](https://github-readme-stats.vercel.app/api?username=beastinvains&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=beastinvains&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beastinvains&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beastinvains&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
